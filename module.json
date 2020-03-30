@@ -1,0 +1,17 @@
+{
+  "title":"Templates",
+  "name":"templates",
+  "description":"Manage installed templates and helps to install them from out sources or from professional shop.",
+  "icon":"<i class=\"fa fa-object-group\"></i>",
+  "version":"1.0",
+  "date":"2018-01-02",
+  "author":"mrinmiro@gmail.com",
+  "compatible_cores":["1.0"],
+  "dashboard_menu":{
+    "":"<i class=\"fa fa-object-group\"></i> *Templates overview*",
+    "/shop":"<i class=\"fa fa-shopping-bag\"></i> *Templates shop*",
+    "/install":"<i class=\"fa fa-plus\"></i> *Install new template*"
+  },
+  "price":"0",
+  "":""
+}

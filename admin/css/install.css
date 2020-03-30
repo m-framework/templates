@@ -1,0 +1,8 @@
+.upload-text.error {
+    background-color: #ffecec;
+    color: #8f242b;
+}
+.upload-text.success {
+    background-color: #eef5e4;
+    color: #24782a;
+}
